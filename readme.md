@@ -1,6 +1,6 @@
 # Pandas Data Analysis Projects
 
-Collection of data analysis projects completed while learning Pandas, NumPy fundamentals, and data visualization.
+Collection of data analysis projects completed while learning Pandas, NumPy fundamentals, and data visualization. [Link for ChatGPT's chat about theses exercises and insights.](https://chatgpt.com/share/6a1b2b81-d25c-83ea-8910-a464d6210c6c)
 
 ## Objectives
 
